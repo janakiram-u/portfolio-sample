@@ -1,0 +1,62 @@
+/* Add this styling to your CSS file */
+
+/* Facts Section */
+.facts {
+    background-color: #f8f9fa;
+    padding: 60px 0;
+    width: 100%;
+  }
+  
+  .facts .section-title {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .facts p {
+    font-size: 16px;
+    color: #777;
+    line-height: 1.6;
+  }
+  
+  /* Fact Box */
+  .count-box {
+    text-align: center;
+    padding: 30px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .count-box i {
+    font-size: 36px;
+    color: #007bff;
+  }
+  
+  .count-box span {
+    font-size: 48px;
+    display: block;
+    font-weight: bold;
+    color: #222;
+  }
+  
+  .count-box strong {
+    color: #555;
+    font-size: 18px;
+    display: block;
+    margin-top: 15px;
+  }
+  
+  .count-box p {
+    padding: 0;
+    margin: 0;
+    font-size: 14px;
+    color: #777;
+  }
+  
+  /* Hover effect */
+  .count-box:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
+  }
+  

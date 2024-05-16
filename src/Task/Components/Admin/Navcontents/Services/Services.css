@@ -1,0 +1,55 @@
+
+
+.services {
+    padding: 60px 0;
+    
+  }
+  
+  .services .section-title {
+    text-align: center;
+    padding-bottom: 30px;
+  }
+  
+  .services .row {
+    margin-top: 30px;
+  }
+  
+  .services .icon-box {
+    background: #fff;
+    padding: 20px;
+    border: 1px solid #e1e4e8;
+    text-align: center;
+    transition: transform 0.3s;
+  }
+  
+  .services .icon-box:hover {
+    transform: translateY(-10px);
+  }
+  
+  .services .icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 64px;
+    width: 64px;
+    margin: 0 auto 20px auto;
+    background: rgb(40, 111, 177);
+    border-radius: 50%;
+    color: #fff;
+    font-size: 32px;
+  }
+  
+  .services .title {
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 10px;
+  }
+  
+  .services .description {
+    font-size: 14px;
+    line-height: 24px;
+    color: #7d7d7d;
+  }
+  
+ 
+  

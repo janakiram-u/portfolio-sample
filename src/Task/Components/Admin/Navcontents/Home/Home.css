@@ -1,0 +1,18 @@
+
+#home {
+    width:115%;
+    height: 100vh;
+    background: url(../../../../../Assets/Images/hero.jpg) top center;
+    background-size: cover;
+    background-position-x: center;
+    display:'flex';
+    justify-Content: 'center';
+    align-Items: 'center';
+
+}
+
+
+section {
+    padding: 60px 0;
+    overflow: hidden;
+}
